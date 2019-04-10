@@ -1,8 +1,7 @@
-## Welcome to GitHub Pages
+## Welcome to our App Page
 
-You can use the [editor on GitHub](https://github.com/Fethi1/univ-project/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+this app is made for university students to help revise and prepare well for exams
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
@@ -11,27 +10,15 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+## it contain : 
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+- All avaiable Courses of the speciality.
+- Exams with correction of the past years.
 
-[Link](url) and ![Image](src)
-```
+we are also gonna listen to the community and let you users send us your documents and files that helps you study well and post them in the app so other people will benefit of it.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Contacts
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Fethi1/univ-project/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+ [our Facebook]https://www.facebook.com/fethi.psy.3).
